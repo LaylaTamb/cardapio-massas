@@ -1,0 +1,43 @@
+{
+  "versao": 1,
+  "atualizadoEm": "2026-09-15T02:21:43.567Z",
+  "pastas": [],
+  "pedidos": [
+    {
+      "id": "5433c46e-774c-424d-b0b6-47247dcf3c77",
+      "nome": "Pedido 1 - Layla",
+      "pastaId": null,
+      "criadoEm": "2026-09-15T02:21:30.740Z",
+      "atualizadoEm": "2026-09-15T02:21:30.740Z",
+      "escolhas": {
+        "tamanho": "Grande",
+        "massa": "Penne",
+        "tipoMassa": "Tradicional",
+        "molho": "Molho branco",
+        "molhoExtra": "Quatro queijos",
+        "adicionais": {
+          "Alho-poró": 1,
+          "Azeitona preta": 1,
+          "Brócolis": 1,
+          "Calabresa": 1,
+          "Camarão": 1,
+          "Cebola": 1,
+          "Croutons": 1,
+          "Palmito": 1,
+          "Pimenta-biquinho": 1,
+          "Pimentão": 1,
+          "Rúcula": 1,
+          "Salmão": 1,
+          "Tomate-cereja": 1
+        },
+        "finalizacao": [
+          "Parmesão ralado",
+          "Muçarela de búfala",
+          "Azeite",
+          "Cebolinha"
+        ],
+        "bebida": "Soda Italiana de Frutas Vermelhas"
+      }
+    }
+  ]
+}
