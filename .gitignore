@@ -5,3 +5,6 @@ dist
 *.local
 .DS_Store
 .vite
+
+# Config de ferramentas locais (ex.: Claude Code), fora do projeto
+.claude/
