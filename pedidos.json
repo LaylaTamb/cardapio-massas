@@ -1,8 +1,39 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-09-15T02:21:43.567Z",
+  "atualizadoEm": "2026-09-15T02:26:50.860Z",
   "pastas": [],
   "pedidos": [
+    {
+      "id": "c1324aea-80a3-438d-9c73-61c81ce314a2",
+      "nome": "Pedido 1 - Gui",
+      "pastaId": null,
+      "criadoEm": "2026-09-15T02:26:22.873Z",
+      "atualizadoEm": "2026-09-15T02:26:22.873Z",
+      "escolhas": {
+        "tamanho": "Grande",
+        "massa": "Ravioli de carne",
+        "tipoMassa": "Tradicional",
+        "molho": "Funghi",
+        "molhoExtra": "Carbonara",
+        "adicionais": {
+          "Bacon": 1,
+          "Calabresa": 1,
+          "Camarão": 1,
+          "Champignon": 1,
+          "Salmão": 1,
+          "Shimeji": 1,
+          "Shiitake": 1
+        },
+        "finalizacao": [
+          "Parmesão ralado",
+          "Muçarela de búfala",
+          "Azeite trufado",
+          "Manjericão fresco",
+          "Pimenta-do-reino"
+        ],
+        "bebida": "Soda Italiana de Maçã Verde"
+      }
+    },
     {
       "id": "5433c46e-774c-424d-b0b6-47247dcf3c77",
       "nome": "Pedido 1 - Layla",
