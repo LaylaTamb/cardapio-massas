@@ -1,39 +1,8 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-09-15T02:26:50.860Z",
+  "atualizadoEm": "2026-09-15T03:05:45.038Z",
   "pastas": [],
   "pedidos": [
-    {
-      "id": "c1324aea-80a3-438d-9c73-61c81ce314a2",
-      "nome": "Pedido 1 - Gui",
-      "pastaId": null,
-      "criadoEm": "2026-09-15T02:26:22.873Z",
-      "atualizadoEm": "2026-09-15T02:26:22.873Z",
-      "escolhas": {
-        "tamanho": "Grande",
-        "massa": "Ravioli de carne",
-        "tipoMassa": "Tradicional",
-        "molho": "Funghi",
-        "molhoExtra": "Carbonara",
-        "adicionais": {
-          "Bacon": 1,
-          "Calabresa": 1,
-          "Camarão": 1,
-          "Champignon": 1,
-          "Salmão": 1,
-          "Shimeji": 1,
-          "Shiitake": 1
-        },
-        "finalizacao": [
-          "Parmesão ralado",
-          "Muçarela de búfala",
-          "Azeite trufado",
-          "Manjericão fresco",
-          "Pimenta-do-reino"
-        ],
-        "bebida": "Soda Italiana de Maçã Verde"
-      }
-    },
     {
       "id": "5433c46e-774c-424d-b0b6-47247dcf3c77",
       "nome": "Pedido 1 - Layla",
@@ -67,7 +36,70 @@
           "Azeite",
           "Cebolinha"
         ],
-        "bebida": "Soda Italiana de Frutas Vermelhas"
+        "bebida": "Soda Italiana de Frutas Vermelhas",
+        "bebidaDetalhes": []
+      }
+    },
+    {
+      "id": "c1324aea-80a3-438d-9c73-61c81ce314a2",
+      "nome": "Pedido 1 - Gui",
+      "pastaId": null,
+      "criadoEm": "2026-09-15T02:26:22.873Z",
+      "atualizadoEm": "2026-09-15T02:26:22.873Z",
+      "escolhas": {
+        "tamanho": "Grande",
+        "massa": "Ravioli de carne",
+        "tipoMassa": "Tradicional",
+        "molho": "Funghi",
+        "molhoExtra": "Carbonara",
+        "adicionais": {
+          "Bacon": 1,
+          "Calabresa": 1,
+          "Camarão": 1,
+          "Champignon": 1,
+          "Salmão": 1,
+          "Shimeji": 1,
+          "Shiitake": 1
+        },
+        "finalizacao": [
+          "Parmesão ralado",
+          "Muçarela de búfala",
+          "Azeite trufado",
+          "Manjericão fresco",
+          "Pimenta-do-reino"
+        ],
+        "bebida": "Soda Italiana de Maçã Verde",
+        "bebidaDetalhes": []
+      }
+    },
+    {
+      "id": "acf66229-5a98-412d-a03b-91e5c7ca95f7",
+      "nome": "Pedido 1 - Kay",
+      "pastaId": null,
+      "criadoEm": "2026-09-15T03:05:19.768Z",
+      "atualizadoEm": "2026-09-15T03:05:19.768Z",
+      "escolhas": {
+        "tamanho": "Família",
+        "massa": "Fettuccine",
+        "tipoMassa": "Tradicional",
+        "molho": "Carbonara",
+        "molhoExtra": "Rosé",
+        "adicionais": {
+          "Bacon": 2,
+          "Pimenta-biquinho": 1,
+          "Cebola": 1,
+          "Pimentão": 1,
+          "Shimeji": 1,
+          "Azeitona preta": 1,
+          "Alho-poró": 1
+        },
+        "finalizacao": [
+          "Azeite trufado",
+          "Muçarela de búfala",
+          "Alho crocante"
+        ],
+        "bebida": "Vinho rosé",
+        "bebidaDetalhes": []
       }
     }
   ]
