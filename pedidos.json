@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizadoEm": "2026-09-15T22:24:52.082Z",
+  "atualizadoEm": "2026-11-19T20:26:13.081Z",
   "pastas": [
     {
       "id": "55d274de-29cd-4905-9aa7-750b53dac482",
@@ -110,6 +110,32 @@
           "Cebolinha"
         ],
         "bebida": "Soda Italiana de Frutas Vermelhas"
+      }
+    },
+    {
+      "id": "6bcb6990-24f5-470f-ae9d-50147501cd62",
+      "nome": "Pedido 1 - Skye",
+      "pastaId": "e88261bd-609a-4236-b775-691b7318aa3a",
+      "criadoEm": "2026-11-19T20:25:23.249Z",
+      "atualizadoEm": "2026-11-19T20:26:01.714Z",
+      "escolhas": {
+        "tamanho": "Grande",
+        "massa": "Talharim",
+        "tipoMassa": "Integral",
+        "molho": "Pesto",
+        "molhoExtra": "Sem molho extra",
+        "adicionais": {
+          "Camarão": 1,
+          "Champignon": 1,
+          "Pimentão": 1,
+          "Azeitona preta": 1
+        },
+        "finalizacao": [
+          "Manjericão fresco",
+          "Cebolinha",
+          "Pimenta-do-reino"
+        ],
+        "bebida": "Coca-Cola Zero"
       }
     }
   ]
